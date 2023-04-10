@@ -1,2 +1,2 @@
-# nonmem.ui
-User Interface for PK PD modeling
+# slots
+graph and table slots for R
